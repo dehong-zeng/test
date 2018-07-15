@@ -20,22 +20,6 @@
 /***                 Added pass and check of structure bc_table to          ***/
 /***                 get_uvw_in                                             ***/
 /***                 (newtetr_v3.2)                                         ***/
-/***   Version 2.4 - April 16; J.Myers                                      ***/
-/***                 get_uvw_in and lag_uvw_in (fixed error in              ***/
-/***                 Analytical flow calculation)                           ***/
-/***                                                                        ***/
-/***                                                                        ***/
-/***                                                                        ***/
-/***                                                                        ***/
-/***   Copyright 1994 - C. Ross Ethier, D.A. Steinman, X. Zhang             ***/
-/***                                                                        ***/
-/***  FILE NAME:   utils.c                                                  ***/
-/***                                                                        ***/
-/***  DESCRIPTION:     This file contains assorted utility functions        ***/
-/***                     add_vectors                                        ***/
-/***                     add_vectors_nonD                                   ***/
-/***                     bin_search                                         ***/
-/***              Cabs, Cadd, Cdiv, Cexp, Cmul, Complex, Csqrt              ***/
 /***                     compute_substeps                                   ***/
 /***                     copy_vector                                        ***/
 /***                     copy_vector_D                                      ***/
